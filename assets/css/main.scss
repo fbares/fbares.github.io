@@ -1,0 +1,44 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.paper {
+  padding: 1.2em 0;
+  border-bottom: 1px solid #dce3e0;
+}
+
+.paper__title {
+  margin: 0 0 0.45em;
+  font-size: 1.15em;
+  line-height: 1.4;
+}
+
+.paper__meta {
+  margin: 0 0 0.7em;
+  font-size: 0.85em;
+  color: #555f60;
+}
+
+.paper__badge {
+  display: inline-block;
+  padding: 0.15em 0.5em;
+  border-radius: 2px;
+  background: #e7f2ec;
+  color: #275b42;
+  font-weight: 700;
+}
+
+.paper__more summary {
+  cursor: pointer;
+  font-size: 0.85em;
+}
+
+.paper__more p {
+  margin: 0.75em 0 0;
+  font-size: 0.9em;
+}

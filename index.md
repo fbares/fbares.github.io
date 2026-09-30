@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Francois Bares"
 author_profile: true
 permalink: /
 ---
