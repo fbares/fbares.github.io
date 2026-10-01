@@ -21,4 +21,4 @@ author:
       url: "https://www.linkedin.com/in/francoisbares/"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "https://fbares.github.io/francoisbares.github.io/assets/francois-bares-cv.pdf"
+      url: "/assets/francois-bares-cv.pdf"
