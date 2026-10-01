@@ -12,3 +12,13 @@ plugins:
 
 author:
   name: "Francois Bares"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:francois.bares.dphil@said.oxford.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/francoisbares/"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://fbares.github.io/francoisbares.github.io/assets/francois-bares-cv.pdf"
