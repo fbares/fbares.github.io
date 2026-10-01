@@ -48,9 +48,17 @@ Teaching experience in finance and economics across graduate, MBA, executive edu
   <p class="paper__meta"><span class="paper__badge">Summer school lecturer</span> &middot; Undergraduate &middot; 2023, 2024</p>
 </div>
 
+
 ## University of Wisconsin-Madison
 
 <div class="paper">
   <h3 class="paper__title">World Hunger and Malnutrition</h3>
   <p class="paper__meta"><span class="paper__badge">Teaching assistant</span> &middot; Undergraduate &middot; 2022</p>
 </div>
+
+## Extra
+
+- [Oriel Summer School: Lecture 1]({{ '/oriel_summer_school_1.pdf' | relative_url }})
+- [Oriel Summer School: Lecture 2]({{ '/oriel_summer_school_2.pdf' | relative_url }})
+- [Oriel Summer School: Lecture 3]({{ '/oriel_summer_school_3.pdf' | relative_url }})
+- [Secular Stagnation: Introduction]({{ '/secular_stagnation_intro.pdf' | relative_url }})
