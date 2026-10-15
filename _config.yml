@@ -12,6 +12,7 @@ plugins:
 
 author:
   name: "Francois Bares"
+  avatar: "/assets/francois-bares-portrait.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
