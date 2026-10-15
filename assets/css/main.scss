@@ -64,12 +64,11 @@ search: false
 }
 
 .paper__badge {
-  display: inline-block;
-  padding: 0.15em 0.5em;
-  border-radius: 2px;
-  background: #e7f2ec;
-  color: #275b42;
-  font-weight: 700;
+  display: inline;
+  color: #222222;
+  font-size: 0.9em;
+  font-style: italic;
+  font-weight: 400;
 }
 
 .paper__more summary {

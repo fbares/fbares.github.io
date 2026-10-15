@@ -56,7 +56,7 @@ Teaching experience in finance and economics across graduate, MBA, executive edu
   <p class="paper__meta"><span class="paper__badge">Teaching assistant</span> &middot; Undergraduate &middot; 2022</p>
 </div>
 
-## Extra
+## Course material
 
 - [Oriel Summer School: Lecture 1]({{ '/oriel_summer_school_1.pdf' | relative_url }})
 - [Oriel Summer School: Lecture 2]({{ '/oriel_summer_school_2.pdf' | relative_url }})
