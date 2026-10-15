@@ -50,3 +50,27 @@ permalink: /research/
 		<p><strong>Abstract:</strong> While a prior literature established that patents have signalling value to early-stage investors, little is known about the signalling value of innovation prizes. This paper analyses PitchBook fundraising outcomes of 383 startups that participated in innovation prizes offered by the XPRIZE Foundation, the largest organiser of innovation prizes in the world. Using a synthetic difference-in-differences estimator with a large control group, the analysis finds that XPRIZE participation increases the probability of raising equity in any quarter by 7.7 percentage points, relative to a baseline of 4.7%. Consistent with signalling theory, the effect is twice as large for companies without patents. It is positive and significant in each individual prize, but larger for prizes with larger prize purses. There is no evidence that prizes crowd out adjacent technology areas; instead, they provide a modest crowd-in effect. Startups participating in an XPRIZE competition attract new investors who had not previously invested in the specific technology area addressed by the prize. Equity investors respond more than Public grant funders. Overall, the results suggest that participation in an innovation prize provides a positive signal to investors, especially in nascent technological areas where alternative signals aren’t readily available.</p>
 	</details>
 </div>
+
+<div class="paper">
+	<h3 class="paper__title">The Impact of the Global Minimum Tax on Incentives for Business Location, Investment, and Profit Shifting</h3>
+	<details class="paper__more">
+		<summary>Abstract and paper details</summary>
+		<p><strong>Authors:</strong> Francois Bares, Michael Devereux, Irem Guceri, and Vikram Patil<br>
+		<strong>Published online:</strong> 13 May 2026</p>
+		<p><strong>Publication:</strong> <em>Journal of International Business Studies</em>, 57(7), 972&ndash;989<br>
+		<strong>DOI:</strong> <a href="https://doi.org/10.1057/s41267-026-00860-z">10.1057/s41267-026-00860-z</a></p>
+		<p><strong>Abstract:</strong> In 2021, over 140 countries agreed to what is widely considered to be the most significant reform of international business taxes in a century: the introduction of a global minimum tax (GMT) at a rate of 15% on the profits of large MNEs. We study the reform’s impact on three interrelated MNE decisions: the location of investment, the size of investment conditional on location, and the extent to which profit is shifted to a low-tax country. We extend existing models of the impact of taxation on investment incentives to allow for profit shifting and the GMT. We also develop and quantify a measure of the economic cost of tax-induced distortions to location. We apply our model to taxes in 34 OECD countries. Raising the GMT rate reduces profit shifting as the benefits of profit shifting are reduced. This raises the MNE’s tax liability and its cost of capital, reducing its aggregate investment. The impact on location choice is more subtle, as the dispersion in effective tax rates across countries first rises, then falls, as the GMT rate rises. At a GMT rate of 15%, we estimate that there is a small rise in the dispersion, implying greater distortions to location decisions.</p>
+	</details>
+</div>
+
+<div class="paper">
+	<h3 class="paper__title">The OECD Global Anti-Base Erosion Proposal</h3>
+	<details class="paper__more">
+		<summary>Report details</summary>
+		<p><strong>Authors:</strong> Michael P. Devereux, Francois Bares, Sarah Clifford, Judith Freedman, Irem Guceri, Martin McCarthy, Martin Simmler, and John Vella<br>
+		<strong>Published:</strong> January 2020</p>
+		<p><strong>Publication:</strong> Oxford University Centre for Business Taxation report, commissioned by PwC<br>
+		<strong>PDF:</strong> <a href="https://www.sbs.ox.ac.uk/sites/default/files/2020-02/OECD_GloBE_proposal_report_2020.pdf">Download report</a></p>
+		<p><strong>Overview:</strong> The report evaluates the OECD’s proposed Global Anti-Base Erosion (GloBE) rules, including an income inclusion rule and a tax on base-eroding payments. It examines the proposal’s policy aims, revenue effects, incentives for investment and profit shifting, and implications for EU law. Under a country-by-country approach with a 10% minimum effective tax rate, the report’s central estimate is around $32 billion in additional worldwide revenue, while noting substantial uncertainty in the available data.</p>
+	</details>
+</div>
