@@ -11,9 +11,9 @@ I’m a fifth-year PhD (DPhil) candidate in Finance at the University of Oxford.
 ## Research Interests
 
 <ul class="research-interests">
-	<li>Economics of science and innovation</li>
-	<li>entrepreneurial finance</li>
-	<li>public economics</li>
-	<li>AI as measurement</li>
-	<li>Machine learning for Economics</li>
+	<li>Economics of Science and Innovation</li>
+	<li>Entrepreneurial Finance</li>
+	<li>Public Economics</li>
+	<li>AI as Measurement</li>
+	<li>Machine Learning for Economics</li>
 </ul>
