@@ -29,7 +29,7 @@ Teaching experience in finance and economics across graduate, MBA, executive edu
   <p class="paper__meta"><span class="paper__badge">Support class lecturer</span> &middot; MBA &middot; 2025</p>
 </div>
 
-## Stanford house, University Oxford
+## Stanford house, University of Oxford
 
 <div class="paper">
   <h3 class="paper__title">Game Theory and Financial Economics</h3>
